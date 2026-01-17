@@ -6,7 +6,18 @@
       "Bash(git init:*)",
       "Bash(git remote add:*)",
       "Bash(git add:*)",
-      "Bash(del NUL)"
+      "Bash(del NUL)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Fiverr Services Hub framework\n\n- Project structure with 6 organized folders\n- Service catalog with pricing (SERVICE-IDEAS.md)\n- Gig templates for Fiverr listings\n- Client project management template\n- Getting started guide for freelancers\n- Comprehensive project review document\n- Claude Code configuration\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git commit:*)",
+      "Bash(git pull:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(npm install)",
+      "Bash(npm run dev:*)",
+      "WebFetch(domain:flow-craft-studio.myshopify.com)",
+      "WebFetch(domain:declassifiedio.netlify.app)",
+      "WebFetch(domain:redbrickroad.netlify.app)"
     ],
     "deny": [],
     "ask": []
