@@ -17,7 +17,15 @@
       "Bash(npm run dev:*)",
       "WebFetch(domain:flow-craft-studio.myshopify.com)",
       "WebFetch(domain:declassifiedio.netlify.app)",
-      "WebFetch(domain:redbrickroad.netlify.app)"
+      "WebFetch(domain:redbrickroad.netlify.app)",
+      "Bash(NUL)",
+      "WebSearch",
+      "WebFetch(domain:instantdomainsearch.com)",
+      "Bash(npm run build:*)",
+      "Bash(netlify:*)",
+      "Bash(rm:*)",
+      "Bash(cp:*)",
+      "Bash(npm install:*)"
     ],
     "deny": [],
     "ask": []
