@@ -35,7 +35,21 @@ export default function ContactPage() {
               <h2 className="text-2xl font-bold text-secondary-900 mb-6">
                 Send a Message
               </h2>
-              <form className="space-y-6">
+              <form
+                name="contact"
+                method="POST"
+                data-netlify="true"
+                netlify-honeypot="bot-field"
+                className="space-y-6"
+              >
+                {/* Hidden fields for Netlify */}
+                <input type="hidden" name="form-name" value="contact" />
+                <div style={{ display: 'none' }}>
+                  <label>
+                    Don't fill this out if you're human: <input name="bot-field" />
+                  </label>
+                </div>
+
                 <div className="grid md:grid-cols-2 gap-6">
                   <div>
                     <label
