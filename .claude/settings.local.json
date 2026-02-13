@@ -25,7 +25,11 @@
       "Bash(netlify:*)",
       "Bash(rm:*)",
       "Bash(cp:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "WebFetch(domain:fiverrdevsite.netlify.app)",
+      "WebFetch(domain:chris-campbell-dev.netlify.app)",
+      "Bash(tree:*)",
+      "Bash(git fetch:*)"
     ],
     "deny": [],
     "ask": []
