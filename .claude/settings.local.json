@@ -29,7 +29,11 @@
       "WebFetch(domain:fiverrdevsite.netlify.app)",
       "WebFetch(domain:chris-campbell-dev.netlify.app)",
       "Bash(tree:*)",
-      "Bash(git fetch:*)"
+      "Bash(git fetch:*)",
+      "Bash(gh repo view:*)",
+      "WebFetch(domain:badbunnyhalftime.net)",
+      "WebFetch(domain:github.com)",
+      "Bash(git -C D:FIvver status)"
     ],
     "deny": [],
     "ask": []

@@ -46,6 +46,18 @@ export const PROJECTS: Project[] = [
     liveUrl: 'https://redbrickroad.netlify.app/',
     featured: true,
   },
+  {
+    id: 'benito-token',
+    title: '$BENITO',
+    description: 'Solana meme coin and marketing site I created for Bad Bunny\'s Super Bowl LX halftime show.',
+    longDescription: 'A full Web3 project I built end-to-end — from deploying the $BENITO SPL token on Solana via Pump.fun to designing and developing the marketing website. The token features a 2 billion supply, 0% taxes, burned liquidity pool, and renounced contract. The site is built with Next.js 15, React 19, and Tailwind CSS, featuring a neon cyan and hot pink dark theme with animated elements, detailed tokenomics, a four-phase roadmap (La Ruta), white paper, step-by-step buying guide, and community hub linking Telegram, X, and DexScreener.',
+    image: '/images/projects/benito.png',
+    tags: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Solana', 'Web3', 'Pump.fun'],
+    category: 'landing',
+    liveUrl: 'https://badbunnyhalftime.net/',
+    githubUrl: 'https://github.com/cryptochris8/benito',
+    featured: true,
+  },
 ];
 
 export interface Service {
