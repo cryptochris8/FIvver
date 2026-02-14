@@ -7,33 +7,33 @@
 
 ## Professional Bio (1200 character limit)
 
-👋 Hi, I'm Chris Campbell - a web developer and published author specializing in modern web applications, interactive experiences, and e-commerce solutions.
+Hi, I'm Chris Campbell - a web developer and published author specializing in modern web applications, interactive experiences, and e-commerce solutions.
 
-🚀 **What I Do:**
+**What I Do:**
 I build fast, responsive websites and web applications using cutting-edge technologies like Next.js, React, and TypeScript. Whether you need a landing page that converts, a business website that stands out, or a custom web application, I deliver professional results.
 
-💼 **My Experience:**
+**My Experience:**
 - 5+ years in web development
 - 50+ projects completed
 - 30+ happy clients
 - 100% client satisfaction
 
-🛠️ **Tech Stack:**
+**Tech Stack:**
 Frontend: React, Next.js, TypeScript, Tailwind CSS, HTML5/CSS3
 Backend: Node.js, Express, PostgreSQL, MongoDB, Supabase
 Tools: Git, Figma, Vercel, Netlify, AWS
 
-🎯 **What Makes Me Different:**
+**What Makes Me Different:**
 - Clean, maintainable code
 - Fast turnaround times
 - Regular communication and updates
 - Modern tech stack for better performance
-- Portfolio website: https://chris-campbell-dev.netlify.app
+- Portfolio: chriscampbell.dev
 
-📚 **Beyond Code:**
+**Beyond Code:**
 I'm also a published author of "The Red Brick Road," a fantasy novel reimagining the Land of Oz. I bring creativity and storytelling to every project.
 
-Let's work together to bring your vision to life! 🌟
+Let's work together to bring your vision to life!
 
 ---
 
@@ -52,6 +52,7 @@ Let's work together to bring your vision to life! 🌟
 - Next.js
 - Tailwind CSS
 - Express.js
+- Shopify / Liquid
 
 ### Specializations:
 - Web Development
@@ -62,6 +63,7 @@ Let's work together to bring your vision to life! 🌟
 - Web Applications
 - SEO Optimization
 - Performance Optimization
+- Shopify Development
 
 ---
 
@@ -71,12 +73,14 @@ Let's work together to bring your vision to life! 🌟
 ---
 
 ## Education
-*Add any relevant degrees or certifications here*
+- Self-taught Web Developer (5+ years hands-on experience)
+- Continuous learning through online courses, documentation, and open-source contribution
 
 ---
 
 ## Certifications
-*Add any web development certifications*
+- Portfolio of 50+ completed projects serves as practical certification
+- Published author demonstrating writing, planning, and creative execution skills
 
 ---
 
@@ -84,21 +88,25 @@ Let's work together to bring your vision to life! 🌟
 
 1. **Portfolio Website**
    https://chris-campbell-dev.netlify.app
-   *Professional portfolio showcasing web development projects*
+   *Professional portfolio showcasing web development projects and services*
 
 2. **FlowCraft Studio** (E-Commerce)
    https://flow-craft-studio.myshopify.com
-   *Shopify store with product catalog and payment integration*
+   *AI-themed Shopify store with product catalog, collections, and payment integration*
 
 3. **Declassified.io** (Web Application)
    https://declassifiedio.netlify.app
-   *Interactive investigation game with branching narratives*
+   *Interactive investigation game with branching narratives and real declassified cases*
 
 4. **The Red Brick Road** (Landing Page)
    https://redbrickroad.netlify.app
-   *Book promotional landing page with Goodreads integration*
+   *Book promotional landing page for fantasy novel with Goodreads integration*
 
-5. **GitHub Profile**
+5. **$BENITO** (Marketing / Crypto Landing Page)
+   https://badbunnyhalftime.net
+   *Solana meme coin marketing site with tokenomics, roadmap, and buying guide*
+
+6. **GitHub Profile**
    https://github.com/cryptochris8
    *Open source contributions and code samples*
 
@@ -108,11 +116,12 @@ Let's work together to bring your vision to life! 🌟
 
 **Occupation:** Web Developer & Author
 **Company:** Freelance
-**From:** United States
-**Member Since:** [Add date when you join]
+**From:** United States (Spartanburg, SC)
+**Member Since:** February 2026
 **Languages:** English
 **Response Time:** Within 24 hours
 **Average Delivery Time:** 3-7 days (depending on package)
+**Fiverr Username:** chriscam8
 
 ---
 
@@ -124,12 +133,11 @@ Let's work together to bring your vision to life! 🌟
 - Friendly, approachable expression
 - Business casual attire
 - High resolution (at least 300x300px)
+- Note: profile.jpg exists at `02-Portfolio/Websites/developer-portfolio/public/images/profile.jpg`
 
 ---
 
-## Video Introduction Script (Optional but Recommended)
-
-**[30-60 seconds]**
+## Video Introduction Script (30-60 seconds)
 
 "Hi, I'm Chris Campbell, a web developer specializing in modern, high-performance websites and web applications.
 
@@ -139,16 +147,16 @@ I work with cutting-edge technologies like Next.js, React, and TypeScript to bui
 
 Whether you need a landing page, business website, e-commerce store, or custom web application, I'm here to bring your vision to life.
 
-Check out my portfolio at chris-campbell-dev.netlify.app to see my work, and let's discuss your project today!"
+Check out my portfolio at chriscampbell.dev to see my work, and let's discuss your project today!"
 
 ---
 
 ## Personal Website
-https://chris-campbell-dev.netlify.app
+https://chriscampbell.dev
 
 ---
 
-## Social Media Links (Optional)
+## Social Media Links
 
 - **GitHub:** https://github.com/cryptochris8
 - **LinkedIn:** https://linkedin.com/in/chriscampbell
@@ -156,12 +164,16 @@ https://chris-campbell-dev.netlify.app
 
 ---
 
-## Notes:
+## Completion Checklist
 
-✅ Make sure profile is 100% complete before publishing first gig
-✅ Add professional profile photo
-✅ Complete all skills sections
-✅ Add all 5 portfolio pieces
-✅ Consider recording a video introduction (increases trust by 40%)
-✅ Link to portfolio website in bio and personal website field
-✅ Update "Member Since" date when you join
+- [x] Professional bio written (under 1200 characters)
+- [x] Skills sections filled out
+- [x] All portfolio pieces listed (5 projects + GitHub)
+- [x] Portfolio website linked in bio and personal website field
+- [x] Video introduction script drafted
+- [x] Member Since date set
+- [x] Social media links added
+- [x] Education section filled
+- [ ] Professional profile photo uploaded to Fiverr
+- [ ] Video introduction recorded and uploaded
+- [ ] Profile reviewed and published on Fiverr

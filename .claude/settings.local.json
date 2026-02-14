@@ -33,7 +33,8 @@
       "Bash(gh repo view:*)",
       "WebFetch(domain:badbunnyhalftime.net)",
       "WebFetch(domain:github.com)",
-      "Bash(git -C D:FIvver status)"
+      "Bash(git -C D:FIvver status)",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": []
